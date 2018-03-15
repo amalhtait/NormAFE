@@ -1,1 +1,4 @@
-The models
+The models are zipped, unzip using command line: 
+'''
+tar -xf Models.tar.xz
+'''
