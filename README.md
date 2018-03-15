@@ -11,7 +11,7 @@ Ph.D. Candidate, Marseilles, France. <br />
 If using this code or these word embedding models, please cite our work using : 
 		@inproceedings{htait18, 
   		title={Unsupervised Creation of Normalisation Dictionaries for Micro-Blogs in Arabic, French and English}, 
-  		author={Htait, Amal  and Fournier, Sebastien and Patrice, Bellot}, 
+  		author={Htait, Amal  and Fournier, Sebastien and Bellot, Patrice}, 
   		booktitle={International Conference on Computational Linguistics and Intelligent Text Processing}, 
   		year={2018} 
 		} 
