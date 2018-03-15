@@ -3,7 +3,7 @@ The tool creates dictionaries for micro-blogs normalisation, in a form of pairs 
 
 **Developer** <br />	
 Amal Htait <br />
-Ph.D. Researcher, Marseilles, France. <br />
+Ph.D. Candidate, Marseilles, France. <br />
 
 
 **Citation** <br />
