@@ -1,2 +1,6 @@
-The models are zipped, unzip using command line: 
-tar -xvzf Models.tar.gz
+The 3 models are zipped, and can be downladed from : https://cloud.lsis.org/index.php/s/a0dZ6qg3MpiZfaJ
+
+To unzip : 
+tar -xvzf AR.tar.gz
+tar -xvzf FR.tar.gz
+tar -xvzf EN.tar.gz
