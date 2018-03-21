@@ -22,7 +22,7 @@ This work has been supported by the French State, managed by the National Resear
 
 
 **Project Information** <br />
-Text normalisation is a necessity to correct and make more sense of the micro-blogs messages, for information retrieval purposes. Unfortunately, tools and resources of text normalisation are rarely shared. In our paper, an approach is presented based on an unsupervised method for text normalisation using distributed representations of words, known also as "word embedding", applied on Arabic, French and English Languages. THis tool is supplied to create dictionaries for micro-blogs normalisation, in a form of pairs of misspelled word with its standard-form word, in the languages: Arabic, French and English. <br />
+Text normalisation is a necessity to correct and make more sense of the micro-blogs messages, for information retrieval purposes. Unfortunately, tools and resources of text normalisation are rarely shared. In our paper, an approach is presented based on an unsupervised method for text normalisation using distributed representations of words, known also as "word embedding", applied on Arabic, French and English Languages. This tool is supplied to create dictionaries for micro-blogs normalisation, in a form of pairs of misspelled word with its standard-form word, in the languages: Arabic, French and English. <br />
 
 **This script include** <br />
 ```
