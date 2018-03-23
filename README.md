@@ -28,13 +28,13 @@ Text normalisation is a necessity to correct and make more sense of the micro-bl
 
 **This script include** <br />
 ```
-1 - Three word embedding models of size : <br />
+1 - Three word embedding models of size :
 	Arabic : 9 million words  (Models/AR/modelAR_newData_skip_gram)
 	English : 5 million words  (Models/EN/modelEN_newData_skip_gram)
 	French : 415 thousand words  (Models/FR/modelFR_newData_skip_gram)
 ```
 ```
-2 - Three exemplary normalisation dictionaries :<br />
+2 - Three exemplary normalisation dictionaries :
 	English : 18 thousand pairs  (Example_Dictionaries/EN_18_thousand_pairs.txt)
 	Arabic : 10 thousand pairs  (Example_Dictionaries/AR_10_thousand_pairs.txt)
 	French : 3 thousand pairs  (Example_Dictionaries/FR_3_thousand_pairs.txt)
